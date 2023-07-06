@@ -1,1 +1,0 @@
-import{j as o,p as i}from"./jsx-runtime.5e1c725e.js";function t(e){return o.jsx(i.div,{width:"full",height:"10",borderRadius:"sm",position:"relative",overflow:"hidden",shadow:"inset",_before:{content:"''",position:"absolute",borderRadius:"sm",width:"100%",height:"100%",backgroundSize:"24px",zIndex:"-1",backgroundImage:"check"},...e})}export{t as C};
